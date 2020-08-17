@@ -1,0 +1,150 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Exercicios em Casa",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/c/exercicioemcasa"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Calistenia Brasil",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/channel/UCQ49D77jn1PQ9wVbBNrK90Q"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Sergio Bertolluci",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/c/S%C3%A9rgioBertolucii/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Roberta Gym",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Canal no Youtube",
+        "url": "https://www.youtube.com/channel/UC5KN7SPqLxNUvaKGwHRMYiw"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Treino de Pernas APENAS COM PESO DO CORPO",
+      "url": "https://www.youtube.com/watch?v=e41diT83XbI&list=PLsTqUcSUZLJGKd4TXSgJCmeE7HUFu1HjB&index=25"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "4 MINUTOS PARA PERDER BARRIGA E DEFINIR [para iniciantes]",
+      "url": "https://www.youtube.com/watch?v=pBX6lDWZ65A&list=PLsTqUcSUZLJEBxKycROdWHx3P3PnSN4UN"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "EXERCÍCIOS FÁCEIS PARA INICIANTES - QUEIME MUITAS CALORIAS",
+      "url": "https://www.youtube.com/watch?v=XW9IZfHiVZM&list=PLsTqUcSUZLJEBxKycROdWHx3P3PnSN4UN&index=2"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "DEFINA SEU ABDÔMEN EM CASA - TREINO PARA QUEIMAR CALORIAS",
+      "url": "https://www.youtube.com/watch?v=PNTVEcyNngw&list=PLsTqUcSUZLJEBxKycROdWHx3P3PnSN4UN&index=12"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "ROTINA DE PERNAS",
+      "url": "https://www.youtube.com/watch?v=zcMyU3t-sj8&list=PLiIf_pXYao5QRo43sgUZR1kRB9hOEWfOs&index=13"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Como fazer sua PRIMEIRA BARRA ?",
+      "url": "https://www.youtube.com/watch?v=HyMrNycbZuI&list=PLiIf_pXYao5QRo43sgUZR1kRB9hOEWfOs&index=21"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "ROTINA PUSH-DAY * RASGANDO PEITO SEM EQUIPAMENTOS",
+      "url": "https://youtu.be/pC-pTAKzi2g?list=PLiIf_pXYao5QRo43sgUZR1kRB9hOEWfOs"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "ROTINA PULL-DAY *TREINANDO COSTAS",
+      "url": "https://youtu.be/VG21W-_knkM?list=PLiIf_pXYao5QRo43sgUZR1kRB9hOEWfOs"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Abdômen trincado EM CASA (sem equipamentos)",
+      "url": "https://www.youtube.com/watch?v=SvHFsmw0KlE"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "Costas, tríceps e bíceps em casa",
+      "url": "https://youtu.be/htMo7ujEnmo?list=PLSJangqPJ-8p4sVWJKe9fnB4Uo5rQXcWB"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "10 exercícios - Toda mulher deve fazer em casa",
+      "url": "https://youtu.be/-LCWFH8tRhw?list=PLSJangqPJ-8p4sVWJKe9fnB4Uo5rQXcWB"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "10 exercícios - Todo homem deve fazer em Casa",
+      "url": "https://youtu.be/J32bEKmnBaw?list=PLSJangqPJ-8p4sVWJKe9fnB4Uo5rQXcWB"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Rasga Peito em casa",
+      "url": "https://www.youtube.com/watch?v=gtRGPb4u6hY"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Queimar gordura em 18 minutos",
+      "url": "https://youtu.be/I5n7y4Kb-u4?list=PLSJangqPJ-8qCUfRFeADgx80bDPi2lTgB"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Exercícios Para Pernas E Braços",
+      "url": "https://youtu.be/swPLdD8UxWk?list=PLw6EOQDSci7boUmSJlZihBt0BjRDPmLRp"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Treino Para o Corpo Todo de 15 Minutos - Resultados Rápidos",
+      "url": "https://www.youtube.com/watch?v=MxQBcv2FoqA&list=PLw6EOQDSci7boUmSJlZihBt0BjRDPmLRp&index=2"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Faça Este Treino Todas as Noites - 10 Minutos Com o Corpo Inteiro Para Ficar em Forma",
+      "url": "https://youtu.be/SPFz4hFgGv8?list=PLw6EOQDSci7boUmSJlZihBt0BjRDPmLRp"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Treino Para Secar A Barriga: 11 Exercícios Em Casa",
+      "url": "https://youtu.be/b4n3nuphFc0?list=PLw6EOQDSci7boUmSJlZihBt0BjRDPmLRp"
+    }
+  ]
+}
